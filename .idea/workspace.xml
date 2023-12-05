@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="578208f1-e994-46d4-b643-7e6f473fdd41" name="Changes" comment="" />
+    <list default="true" id="578208f1-e994-46d4-b643-7e6f473fdd41" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_2/hw_unittest.py" beforeDir="false" afterPath="$PROJECT_DIR$/hw_2/hw_unittest.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,21 +20,25 @@
       </list>
     </option>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2Z2nayaeUQjOTfjvQRgbNwZFWdn" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager">
+}</component>
+  <component name="RunManager" selected="Python tests.Python tests for user_unittest.UserTest">
     <configuration name="Python tests for hw_2.hw_unittest.VehicleTest" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Unit_tests_HW" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -60,31 +67,31 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for vehicle_unittest.VehicleTest" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for hw_unittest.VehicleTest" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Unit_tests_HW" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Home_work2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hw_2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;vehicle_unittest.VehicleTest&quot;" />
+      <option name="_new_target" value="&quot;hw_unittest.VehicleTest&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for vehicle_unittest.VehicleTest.test_car_instance_check" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for user_unittest.UserTest" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Unit_tests_HW" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Home_work2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hw_3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;vehicle_unittest.VehicleTest.test_car_instance_check&quot;" />
+      <option name="_new_target" value="&quot;user_unittest.UserTest&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
@@ -104,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Python tests for user_unittest.UserTest" />
+        <item itemvalue="Python tests.Python tests for hw_unittest.VehicleTest" />
+        <item itemvalue="Python tests.Python tests for hw_2.hw_unittest.VehicleTest" />
         <item itemvalue="Python tests.Python tests in hw_unittest.py" />
         <item itemvalue="Python tests.Python tests for hw_2.hw_unittest.VehicleTest.test_car_instance_check" />
-        <item itemvalue="Python tests.Python tests for hw_2.hw_unittest.VehicleTest" />
-        <item itemvalue="Python tests.Python tests for vehicle_unittest.VehicleTest" />
-        <item itemvalue="Python tests.Python tests for vehicle_unittest.VehicleTest.test_car_instance_check" />
       </list>
     </recent_temporary>
   </component>
