@@ -5,6 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="578208f1-e994-46d4-b643-7e6f473fdd41" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.coverage" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw_5/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw_6/coverage_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw_6/pylint.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw_6/task.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw_6/test_result.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw_6/test_task.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +51,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.project&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python tests.Python tests for TestBookService.BookServiceTest">
+  <component name="RunManager">
     <configuration name="Python tests for TestBookService.BookServiceTest" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Unit_tests_HW" />
       <option name="INTERPRETER_OPTIONS" value="" />
